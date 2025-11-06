@@ -6,7 +6,7 @@ Official repository for MarketCoin (MAC) – the decentralized zero-fee payment 
 ## 📌 Token Information
 - **Network:** Solana  
 - **Token Address:** [EmHzo9nRsFBwkU7tB5S3QAFhLpVPEWNqxQ4qrPfutmuH](https://solscan.io/token/EmHzo9nRsFBwkU7tB5S3QAFhLpVPEWNqxQ4qrPfutmuH)
-- **Total Supply:** 1,000,000,000 MAC  
+- **Total Supply:** 13,000,000,000 MAC  
 - **Decimals:** 9  
 - **Website:** [https://maccoin.app](https://maccoin.app)  
 - **Whitepaper:** [https://maccoin.app/whitepaper.pdf](https://maccoin.app/whitepaper.pdf)
