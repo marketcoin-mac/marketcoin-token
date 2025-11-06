@@ -12,7 +12,7 @@ MarketCoin (MAC) is a Solana-based SPL token designed for **fee-free payments** 
 - 🌐 **Website:** [https://maccoin.app](https://maccoin.app)
 - 🔗 **Token (Solscan):** [https://solscan.io/token/EmHzo9nRsFBwkU7tB5S3QAFhLpVPEWNqxQ4qrPfutmuH](https://solscan.io/token/EmHzo9nRsFBwkU7tB5S3QAFhLpVPEWNqxQ4qrPfutmuH)
 - 🧩 **De.Fi Scanner:** [https://de.fi/scanner/contract/EmHzo9nRsFBwkU7tB5S3QAFhLpVPEWNqxQ4qrPfutmuH?chainId=sol](https://de.fi/scanner/contract/EmHzo9nRsFBwkU7tB5S3QAFhLpVPEWNqxQ4qrPfutmuH?chainId=sol)
-- 💰 **Presale DApp:** [http://presale.maccoin.app:3000/](http://presale.maccoin.app:3000/)
+- 💰 **Presale DApp:** [https://presale.maccoin.app/](https://presale.maccoin.app/)
 
 ---
 
