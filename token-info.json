@@ -1,0 +1,19 @@
+{
+  "name": "MarketCoin",
+  "symbol": "MAC",
+  "network": "Solana",
+  "decimals": 9,
+  "total_supply": 13000000000,
+  "contract_address": "EmHzo9nRsFBwkU7tB5S3QAFhLpVPEWNqxQ4qrPfutmuH",
+  "website": "https://maccoin.app",
+  "description": "Zero-Fee Payment Powered by Solana",
+  "tags": ["payment", "zero-fee", "solana"],
+  "audit": {
+    "provider": "GoPlus Security",
+    "link": "https://gopluslabs.io/token-security"
+  },
+  "kyc": {
+    "provider": "Coinsniper",
+    "status": "verified"
+  }
+}
