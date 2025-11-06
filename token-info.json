@@ -2,18 +2,24 @@
   "name": "MarketCoin",
   "symbol": "MAC",
   "network": "Solana",
+  "type": "SPL",
   "decimals": 9,
-  "total_supply": 13000000000,
+  "total_supply_on_chain": 13500000000,
+  "presale_allocation": 7000000000,
   "contract_address": "EmHzo9nRsFBwkU7tB5S3QAFhLpVPEWNqxQ4qrPfutmuH",
+  "owner_wallet": "3XmAHVMV5HZ2GNMBt5z5hYNo8H4yaGMXkt1HzcCwg8Fe",
   "website": "https://maccoin.app",
-  "description": "Zero-Fee Payment Powered by Solana",
-  "tags": ["payment", "zero-fee", "solana"],
-  "audit": {
-    "provider": "GoPlus Security",
-    "link": "https://gopluslabs.io/token-security"
+  "presale_dapp": "http://presale.maccoin.app:3000/",
+  "description": "MarketCoin (MAC) is a Solana-based SPL token built for zero-fee payments across online and offline commerce.",
+  "links": {
+    "solscan": "https://solscan.io/token/EmHzo9nRsFBwkU7tB5S3QAFhLpVPEWNqxQ4qrPfutmuH",
+    "defi_scanner": "https://de.fi/scanner/contract/EmHzo9nRsFBwkU7tB5S3QAFhLpVPEWNqxQ4qrPfutmuH?chainId=sol"
   },
-  "kyc": {
-    "provider": "Coinsniper",
-    "status": "verified"
-  }
+  "risk_summary": {
+    "liquidity": "missing",
+    "holder_concentration": "high",
+    "defi_score": 36,
+    "safety_score": 37
+  },
+  "tags": ["payment", "solana", "zero-fee"]
 }
